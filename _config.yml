@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: git@github.com:yanpeton/yanpeton.github.io.git
   branch: master
+
+# Custom
+avatar: /upload/image/Jame.jpeg
+social:
+    github: https://github.com
+    twitter: https://twitter.com
